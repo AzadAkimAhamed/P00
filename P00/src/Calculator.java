@@ -4,8 +4,9 @@
  * I will not copy or allow others to copy my code.
  * I understand that copying code is considered as plagiarism.
  *
- * 21016458, 31 May 2022 11:14:47 pm
+ * 21016458, 1 Jun 2022 4:52:19 pm
  */
+
 public class Calculator {
 	public int add (int a, int b) {
 		return a+b;
@@ -23,3 +24,5 @@ public class Calculator {
 		return a/b;
 	}
 }
+
+

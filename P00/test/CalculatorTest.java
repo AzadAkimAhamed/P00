@@ -1,15 +1,9 @@
-
-/**
-* I declare that this code was written by me.
- * I will not copy or allow others to copy my code.
- * I understand that copying code is considered as plagiarism.
- *
- * 21016458, 31 May 2022 11:16:24 pm
- */
 import static org.junit.Assert.*;
 
 import org.junit.After;
+import org.junit.AfterClass;
 import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class CalculatorTest {
@@ -71,3 +65,4 @@ public class CalculatorTest {
 	}
 	
 }
+
